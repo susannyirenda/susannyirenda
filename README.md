@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, I'm Susan
 
 <!--
 **susannyirenda/susannyirenda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🎓 I graduated with a BS in Computational Linguistic @ the University of Southern California (c/o 2025)
+👩🏾‍💻 I'm an aspiring Software Engineer and interned twice at Apple 
+📖 I'm interested in combining language/linguistics with technology, specifically through Automatic Speech Recognition
+✨ Fun fact: I enjoy writing and taking ballet classes in my free time
+📫 Feel free to reach me: suecaroln@gmail.com
