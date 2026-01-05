@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 I graduated with a BS in Computational Linguistic @ the University of Southern California (c/o 2025)   
-👩🏾‍💻 I'm an aspiring Software Engineer and interned twice at Apple   
-📖 I'm interested in combining language/linguistics with technology, specifically through Automatic Speech Recognition   
-✨ Fun fact: I enjoy writing and taking ballet classes in my free time   
-📫 Feel free to reach me: suecaroln@gmail.com   
+🎓 School: BS in Computational Linguistic @ the University of Southern California (c/o 2025)      
+👩🏾‍💻 Experience: 2x SWE Intern @ Apple  (Server Engineering and Client Engineering)   
+📖 Interests: Combining my love for linguistics with technology - specifically through Automatic Speech Recognition     
+✨ Fun fact: I enjoy writing and taking ballet classes in my free time     
+📫 Feel free to reach me: suecaroln@gmail.com      
